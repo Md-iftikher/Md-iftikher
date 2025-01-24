@@ -1,4 +1,13 @@
-# 👋 Hi, I'm Iftikher Azam
+<h1 align="center">👋 Hi, I'm Md. Iftikher Azam</h1>
+<h3 align="center">From Bangladesh</h3>
+
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=Md-iftikher&label=Profile%20views&color=0e75b6&style=flat" alt="Md-iftikher" />
+</p>
+
+- 📫 How to reach me: **iftikherazam@gmail.com**
+
+---
 
 # 💫 About Me
 🔭 I’m currently working on a Full-Stack Project  
@@ -29,7 +38,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -44,33 +52,20 @@
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 
 ---
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-iftikher&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-iftikher&theme=shadow_blue&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-iftikher&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+   <img height=180 src="https://github-readme-stats.vercel.app/api?username=Md-iftikher&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">  
+   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-iftikher&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"><br>
+   <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=Md-iftikher&theme=tokyonight&hide_border=true"><br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-iftikher&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph">
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Md-iftikher&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-### ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Md-iftikher&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Md-iftikher&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
