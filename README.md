@@ -28,25 +28,6 @@ turning manual operational workflows into automated AI-driven pipelines.
 
 ---
 
-## 🧪 Selected projects
-
-**ATPN-SFT — efficient VideoQA**
-An Adaptive Temporal Policy Network that picks a sparse, temporally coherent subset of video
-frames for Video Question Answering. Two-stage training (noisy pre-training → expert SFT) with a
-KL-divergence alignment objective and a contiguity loss. 78.4 % on NExT-QA using 8 frames on
-average — a 75 % cut in visual tokens with a 3B backbone.
-
-**Synapse CRM** — full-stack CRM with lead/deal pipelines, role-based access control,
-tenant-aware data access and AI-assisted summarisation.
-
-**MarkFlow** — real-time collaborative markdown editor on CRDTs (Yjs/PartyKit) with WebSocket
-sync, semantic search and AI document assistance. *Next.js, TypeScript, FastAPI, MongoDB.*
-
-**WhereIsIt** — lost-and-found platform with auth, categorisation, search filters and image
-upload. *React, Firebase.*
-
----
-
 ## 🛠️ Tech stack
 
 ### Machine learning
